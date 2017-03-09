@@ -47,12 +47,12 @@
   dependencies:
     tsickle "^0.21.0"
 
-"@ngtools/webpack@^1.2.9":
-  version "1.2.9"
-  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-1.2.9.tgz#d200cc489f469ea62dbc2c067e3aa8f24e98d5ee"
+"@ngtools/webpack@^1.2.12":
+  version "1.2.12"
+  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-1.2.12.tgz#19142e760a30172806acc7363e590d870cb30c26"
   dependencies:
     enhanced-resolve "^3.1.0"
-    loader-utils "^0.2.16"
+    loader-utils "^1.0.2"
     magic-string "^0.19.0"
     source-map "^0.5.6"
 

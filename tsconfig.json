@@ -1,4 +1,6 @@
 {
+  "compileOnSave": false,
+  "buildOnSave": false,
     "compilerOptions": {
 		"moduleResolution": "node",
         "module": "es2015",
